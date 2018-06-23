@@ -1,0 +1,41 @@
+body{font-size:16px;
+}
+
+header{
+	margin: 0;
+	padding:2rem 0;
+	text-align: center;
+}
+
+h1{
+	margin: 0;
+	font-size: 1.5rem;
+}
+section{
+	margin:0 auto;
+	width: 75%;
+	background-color: #DDD;
+}
+
+section form{
+	padding: 2rem;
+
+}
+section form>div{
+	width: 49.5%;
+	margin: 0;
+	padding: 0;
+	display: inline-block;
+}
+
+section form>div:first-child{
+	width: 100%;
+}
+
+section form >div >label;
+section form >div >input{display: block;
+}
+section form > div > input{
+	width: 95%;
+}
+
